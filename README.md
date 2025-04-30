@@ -6,7 +6,7 @@
 ## O que estou fazendo
 - 🌱 Eu estou estudando na Escola ETEC Trajano Camargo, no curso Eletroeletrônica, com conclusão em 2025, e estou estudando na Escola SENAI Luis Vargas, no curso
 - Analíse e Desenvolvimento de Sistemas, com conclusão em 2026
-## Como gosto de trabalhar
+## Como sei trabalhar
 - 💞️ Em projetos de códigos abertos, e com iniciação cientifica.
 - Trabalho principalmente com: JavaScript, HTML, CSS, Python.
 ## Como me encontrar
